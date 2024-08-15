@@ -35,4 +35,11 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 $ hexo deploy
 ```
 
+### Hello Test
+あいうえお
+かきくけこ
+
+- test1
+- test2
+
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
