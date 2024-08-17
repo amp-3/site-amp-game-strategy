@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://example.com"
+baseURL = "https://amp-3.github.io/site-amp-game-strategy-deploy"
 theme = "hugo-bearcub"
 copyright = "John Doe (CC BY 4.0)"
 defaultContentLanguage = "en"
